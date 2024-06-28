@@ -1,0 +1,3 @@
+CREATE DATABASE laravel;
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%';
