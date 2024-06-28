@@ -20,3 +20,5 @@ yarn-error.log
 /.vscode
 /postgresql
 /portainer_data
+/postgresql
+/portainer_data
